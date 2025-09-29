@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+
+}
+h1{
+    margin: 20px;
+    text-align: center;
+    
+}
+p{
+    margin: 0 20px;
+    text-align: justify;
+}
+.fecha{
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    width: 26%;
+}
